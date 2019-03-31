@@ -21,7 +21,7 @@ ui <- navbarPage("AHDC --- LDA",
                  
                  
                           br(),br(),br(),br(),br(),br(),br(),br(),
-                          br(),br(),br(),br(),br(),br(),br(),br(),
+                          br(),br(),#br(),br(),br(),br(),br(),br(),
                  #hr(),hr(),hr(),hr(),#hr(),hr(),hr(),hr(),
                           
                           
