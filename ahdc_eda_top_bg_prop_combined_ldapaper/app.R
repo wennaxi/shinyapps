@@ -24,7 +24,7 @@ ui <- navbarPage("AHDC --- EDA",
                  
                  
                           br(),br(),br(),br(),br(),br(),br(),br(),
-                          br(),br(),#br(),br(),br(),br(),br(),br(),
+                          #br(),br(),#br(),br(),br(),br(),br(),br(),
                           
                           
                           
