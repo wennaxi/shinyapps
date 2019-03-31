@@ -62,8 +62,8 @@ server <- function(input, output, session) {
     
     # Return a list containing the filename and alt text
     list(src = filename,
-         width = 800,
-         height = 800,
+         width = 600,
+         height = 600,
          alt = paste("Image number", input$n))
     
   }, deleteFile = FALSE)
