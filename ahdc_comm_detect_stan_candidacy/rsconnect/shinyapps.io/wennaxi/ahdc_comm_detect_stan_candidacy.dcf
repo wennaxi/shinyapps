@@ -1,0 +1,12 @@
+name: ahdc_comm_detect_stan_candidacy
+title: ahdc_comm_detect_stan_candidacy
+username:
+account: wennaxi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 827699
+bundleId: 1977239
+url: https://wennaxi.shinyapps.io/ahdc_comm_detect_stan_candidacy/
+when: 1554056940.58497
+asMultiple: FALSE
+asStatic: FALSE

@@ -73,8 +73,8 @@ ui <- navbarPage("Community Detection with LDA Models",
                                    )
                             ),
                           
-                          hr(),hr(),hr(),hr(),hr(),hr(),hr(),hr(),
-                          hr(),hr(),hr(),hr(),hr(),hr(),hr(),hr(),
+                          br(),br(),br(),br(),br(),br(),br(),br(),
+                          br(),br(),br(),br(),br(),br(),br(),br(),
                           
                         
                           

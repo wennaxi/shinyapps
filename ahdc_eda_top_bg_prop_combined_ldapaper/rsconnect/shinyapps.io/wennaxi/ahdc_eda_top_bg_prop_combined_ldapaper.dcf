@@ -5,8 +5,8 @@ account: wennaxi
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 826992
-bundleId: 1976350
+bundleId: 1976382
 url: https://wennaxi.shinyapps.io/ahdc_eda_top_bg_prop_combined_ldapaper/
-when: 1554002498.55762
+when: 1554004028.47705
 asMultiple: FALSE
 asStatic: FALSE
