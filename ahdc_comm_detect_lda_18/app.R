@@ -58,12 +58,12 @@ server <- function(input, output, session) {
   output$lda18_hhat <- renderImage({
     # When input$n is 3, filename is ./images/image3.jpeg
     filename <- normalizePath(file.path('./plots',
-                                        paste('Gibbs_18_topicmodel.plot.hhat', input$n, '.jpeg', sep='')))
+                                        paste('Gibbs_18_topicmodel_plot_hhat', input$n, '.jpeg', sep='')))
     
     # Return a list containing the filename and alt text
     list(src = filename,
          width = 800,
-         height = 650,
+         height = 800,
          alt = paste("Image number", input$n))
     
   }, deleteFile = FALSE)
